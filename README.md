@@ -1,6 +1,6 @@
 # nvim-config
 
-## All of these files must leve live in this directory: ~/.config/nvim/
+## All of these files must live in this directory: ~/.config/nvim/
 
 * When you open nvim for the first time you might need to use :PlugInstall to get all the plugins
 
